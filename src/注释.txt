@@ -1,0 +1,12 @@
+在nlopt/src/bayesoptbase中，有导出dimension==1和2时的程序方便画图.　查找程序中的
+if(mDims == 1)
+和
+if(mDims == 2)
+两项里包含的内容．
+输出到nlopt/bayesplot里,　每一次迭代输出一次．
+对于一维: 输出文件每一行依次为: x坐标, 期望值，　上不定界限,下不定届(%95), Criteria Value(Acquisition function值),　最后几行是实际采样点
+对于二维:                    x坐标,　y坐标(二维),期望值...(后面和上面一样)
+
+parametercpp里关于ＳＬＡＭ的参数都是自己加的
+SLAM_Fail_Threshold
+RANSAC_Noise

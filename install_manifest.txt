@@ -1,0 +1,7 @@
+/usr/local/lib/libbayesopt.a
+/usr/local/include/bayesopt/.parameters.hpp.swp
+/usr/local/include/bayesopt/parameters.h
+/usr/local/include/bayesopt/bayesopt.h
+/usr/local/include/bayesopt/parameters.hpp
+/usr/local/include/bayesopt/bayesopt.hpp
+/usr/local/include/bayesopt/bayesoptbase.hpp

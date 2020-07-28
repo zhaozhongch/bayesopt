@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/bo_disc.dir/bo_disc.cpp.o  -o bo_disc -rdynamic -lbayesopt 

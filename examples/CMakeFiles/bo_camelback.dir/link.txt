@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/bo_camelback.dir/bo_camelback.cpp.o  -o ../bin/bo_camelback  -L/home/zhaozhong/bayesopt/lib -Wl,-rpath,/home/zhaozhong/bayesopt/lib:/usr/local/lib ../lib/libbayesopt.a /usr/local/lib/libnlopt.so 
