@@ -21,8 +21,10 @@
 */
 
 #include "displaygp.hpp"
-#include "/home/zhaozhong/bayesopt/include/dataset.hpp"
-#include "/home/zhaozhong/bayesopt/include/prob_distribution.hpp"
+#include "../include/dataset.hpp"
+#include "../include/prob_distribution.hpp"
+//#include "/home/zhaozhong/bayesopt/include/dataset.hpp"
+//#include "/home/zhaozhong/bayesopt/include/prob_distribution.hpp"
 
 //#include <string>
 //#include <sstream>

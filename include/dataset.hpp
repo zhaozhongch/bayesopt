@@ -26,9 +26,11 @@
 #ifndef __DATASET_HPP__
 #define __DATASET_HPP__
 
-#include "/home/zhaozhong/bayesopt/utils/log.hpp"
+//#include "/home/zhaozhong/bayesopt/utils/log.hpp"
 #include "specialtypes.hpp"
-#include "/home/zhaozhong/bayesopt/utils/ublas_extra.hpp"
+//#include "/home/zhaozhong/bayesopt/utils/ublas_extra.hpp"
+#include "../utils/log.hpp"
+#include "../utils/ublas_extra.hpp"
 
 namespace bayesopt
 {

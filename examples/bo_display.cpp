@@ -20,8 +20,10 @@
 ------------------------------------------------------------------------
 */
 
-#include "/home/zhaozhong/bayesopt/examples/testfunctions.hpp"
-#include "/home/zhaozhong/bayesopt/utils/displaygp.hpp"
+//#include "/home/zhaozhong/bayesopt/examples/testfunctions.hpp"
+//#include "/home/zhaozhong/bayesopt/utils/displaygp.hpp"
+#include "../examples/testfunctions.hpp"
+#include "../utils/displaygp.hpp"
 //compile with
 //g++ -std=c++11 bo_display.cpp /home/zhaozhong/bayesopt/matplotpp/matplotpp.cc /home/zhaozhong/bayesopt/matplotpp/gl2ps.c /home/zhaozhong/bayesopt/utils/displaygp.cpp -o bo_display -L /usr/local/include/bayesopt/ -l bayesopt -lnlopt -lm -lGLU -lGL -lglut
 

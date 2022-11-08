@@ -22,7 +22,8 @@
 #include "param_loader.hpp"
 #include "testfunctions.hpp"
 #include "displaygp.hpp"
-#include "/home/zhaozhong/bayesopt/utils/displaygp.hpp"
+//#include "/home/zhaozhong/bayesopt/utils/displaygp.hpp"
+#include "../utils/displaygp.hpp"
 
 // Unfortunately OpenGL functions require no parameters, so the object
 // has to be global.

@@ -52,10 +52,6 @@ ADD_EXECUTABLE(bo_compare ./bo_compare.cpp )
 add_dependencies(bo_compare bayesopt)
 TARGET_LINK_LIBRARIES(bo_compare bayesopt)
 
-ADD_EXECUTABLE(EKF_Fusion_NEES ./EKF_Fusion_NEES.cpp )
-add_dependencies(EKF_Fusion_NEES bayesopt)
-TARGET_LINK_LIBRARIES(EKF_Fusion_NEES bayesopt)
-
 enable_language(C)  #For OpenGL and bo_display demo
 
 #Display test
